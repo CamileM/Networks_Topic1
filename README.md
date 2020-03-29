@@ -24,7 +24,9 @@ as four 8-bit fields that are separated by periods.
 
 ## With IPv4 (NO SUBMASK) How many IP can we have in the world? (SOLUTIONS)
 
--
+- According to Reserved IP addresses there are 588,514,304 reserved addresses and
+since there are 4,294,967,296 (2^32) IPv4 addresses in total, there are
+3,706,452,992 public addresses.
 
 ## IP and Binary
 
